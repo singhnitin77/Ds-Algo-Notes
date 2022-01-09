@@ -1,0 +1,4 @@
+3
+100000 100 Safari Black
+500000 120 baleno grey
+200000 130 fortuner white
